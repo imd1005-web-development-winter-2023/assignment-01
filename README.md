@@ -12,27 +12,30 @@
 
 ## TLDR
 
-1. Use the design thinking process to design a website; and 
-3. Create a presentation that showcases the design and explains the 
+1. Write a report that showcases your website design, describes your client, the users of the website, and the results of guerilla user testing
 
-## Scenario 
+## Description
 
-🎉 Congratulations! You made it! After graduating from the Interactive Multimedia & Design (IMD) program you were immediately hired by a small but up-and-coming Creative Agency called the Shinra Creative Company (SCC).
+Create a report that includes:
 
-And before you even adjusted the height of your office's new standing desk to the way that you like it, your Team Lead tells you that Shinra Creative has a client that needs a new website. 
-
-Your Team Lead introduces you to Aeris, the new client, and asks you to design a website and create a presentation that not only presents the website design to the client, but also demonstrates a detailed analysis of: 
-
-* the users of the website, 
-* the key problem(s) that they are experiencing, 
-* the tasks that they are looking to accomplish on this site
-* how the website design solves the task 
+* a short description of your client,
+* a high fidelity web page design for a homepage or landing page,
+* research conducted about your client's users,
+  * who are the users of the website, 
+  * the key problem(s) that the users are experiencing,
+  * the tasks that they are looking to accomplish on this site
+  * how your website design addresses these tasks
+* the results of your guerilla user testing 
 
 ## Client details 
 
-The client's name is Aeris, beyond that, you are empowered to make up any other details that you need about the client. 
+You are empowered to invent as many details as you need about your client.
 
-For example, if you would like to design a site for a non-profit food bank, then you could assume Aeris is a program director at a local Food Bank. If you want to design a protfolio site, then you can say that Aeris is a successful designer with a healthy amount of completed projects under her belt. If you wanted to design a website that markets a video game, you could say Aeris is a marketing manager at a game company that is looking for web design support. 
+For example, if you would like to design a site for a non-profit food bank, then you could assume your client is a program director at a local Food Bank. If you want to design a portfolio site, then you can say that your client is a successful designer with a healthy amount of completed projects under their belt. If you wanted to design a website that markets a video game, you could say your client is a marketing manager at a game company that is looking for web design support.
+
+## Assignment acceptance criteria 
+
+
 
 ## Detailed requirements of the presentation
 
@@ -56,8 +59,6 @@ To do that, the pitch deck needs to have the following elements:
 
 
 
-
-## Assignment acceptance criteria 
 
 
 
