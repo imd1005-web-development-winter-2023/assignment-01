@@ -66,13 +66,14 @@ The following is a sample of the sections that may be included in your report. Y
 
 ## Grading rubric
 
-|A|B|C|
-|----|----|----|
-|**Concept**|
-|A|B|C|
-|A|B|C|
-|A|B|C|
-
+|Criteria|Excellent|Proficient|Satisfactory|Unsatisfactory|
+|----|----|----|----|----|
+|Webpage design<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|User research<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|User tasks<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|User testing<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|Site map<br />**10%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|Report presentation<br />**10%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
 
 ## Late submissions
 
