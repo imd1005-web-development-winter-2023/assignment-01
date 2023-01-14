@@ -6,7 +6,7 @@
 
 **Semester**: Winter 2023
 
-**Due Date**: 11:59 AM (noon) 2023-01-27
+**Due Date**: 11:59 AM (noon) 2023-01-28
 
 **Assessment**: This assignment is worth 15% of your final grade and marked out of 100.
 
@@ -19,7 +19,7 @@
 Create a report that includes:
 
 * a short description of your client,
-* a high fidelity web page design for a homepage or landing page,
+* a high fidelity web page design for a homepage or landing page (desktop or mobile),
 * research conducted about your client's users,
   * who are the users of the website, 
   * the key problem(s) that the users are experiencing,
@@ -68,16 +68,18 @@ The following is a sample of the sections that may be included in your report. Y
 
 |Criteria|Excellent|Proficient|Satisfactory|Unsatisfactory|
 |----|----|----|----|----|
-|Webpage design<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
-|User research<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
-|User tasks<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
-|User testing<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
-|Site map<br />**10%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
-|Report presentation<br />**10%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|Webpage&nbsp;design<br />**30%** of total|100%<br />Well polished, beautiful, high fidelity design presented that takes into account the results of the user research and incorporates outcomes from user testing. The whole design comes across as cohesive, and well polished.|75%<br />Good quality, high fidelity design presented that incorporates most aspects of user research and some results from user testing.|50%<br />Good quality low fidelity design that incorporates some aspects of user research and some aspects of user testing results.|25%<br />Low fidelity design presented that does not consider user research, does not present a way to accomplish the users tasks, nor take into account outcomes from user testing.|
+|User&nbsp;research<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|User&nbsp;tasks<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|User&nbsp;testing<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|Site&nbsp;map<br />**5%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|Report&nbsp;presentation<br />**5%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
 
 ## Late submissions
 
 ## Sample submission
+
+## Frequently Asked Questions (FAQ)
 
 ## Helpful links
 
