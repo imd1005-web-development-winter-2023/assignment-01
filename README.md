@@ -31,40 +31,65 @@ Create a report that includes:
 
 You are empowered to invent as many details as you need about your client.
 
-For example, if you would like to design a site for a non-profit food bank, then you could assume your client is a program director at a local Food Bank. If you want to design a portfolio site, then you can say that your client is a successful designer with a healthy amount of completed projects under their belt. If you wanted to design a website that markets a video game, you could say your client is a marketing manager at a game company that is looking for web design support.
+For example, if you would like to design a website for a non-profit food bank, then you could assume your client is a program director at a local Food Bank. If you want to design a portfolio site, then you can say that your client is a successful designer with a healthy amount of completed projects under their belt. If you wanted to design a website that markets a video game, you could say your client is a marketing manager at a game company that is looking for web design support.
 
 ## Assignment acceptance criteria 
 
+* Your report must be in one of the following formats, `pdf`, `word`, or `pages`.
+* Submit **one** document via Brightspace before the specified deadline
+* Include a cover page with:
+  * The assignment number and title, e.g.: Assignment 1: Website design for (Name of client)
+  * The course ID & section, e.g.: IMD1005A or IMD1005B
+  * Your name
+  * Your student number
+* Clearly label all sections and appendices
+* Use appendices to add any additional information to the report that you feel would be helpful
+* Included references and citations
+* You do NOT need to include any asset files
 
+## Sample structure of the report
 
-## Detailed requirements of the presentation
+The following is a sample of the sections that may be included in your report. You may follow this as a sample, or you may implement the report titles and structure that you feel best conveys your designs and ideas. This is purely for informational purposes.
 
-To do that, the pitch deck needs to have the following elements: 
-
-|Content or section|Description|Notes|Mandatory|
-|-------|-----------|-----|---------|
-|Cover slide|Description||Yes|
-|Table of contents|Description||Yes|
-|Who are the users for this site|Description||Yes|
-|What are the biggest problems they are experiencing|Description||Yes|
-|What tasks are they looking to accomplish on the site|Description||Yes|
-|How does this website address those tasks|Description||Yes|
-|Full page high fidelity mockup for home page|Description||Yes|
-|Low fidelity mockup for supporting pages||If required|No|
-|Site map|Description|Only required if the site has more than one page|No|
-|List of appendices|Description||Yes|
-|Appendix A: Assumptions about Aeris' business|Assumptions||Yes|
-|Appendix B: Competitive Analysis|Assumptions||Yes|
-|Appendix C: Citations and References|Assumptions||If required, yes, otherwise no|
-
-
-
-
-
+|Content or section|Description|Notes|
+|-------|-----------|-----|
+|Cover page|A cover page|See `Assignment acceptance criteria` section for specific items that need to be on the cover page|
+|Table of contents|A table of contents that lists out all of your report sections and appendices||
+|Web page design|Full page high fidelity mockup for home page. Show the awesome thing!|People love seeing the thing. Show it off first. Then in the following sections you can speak about your client and their users|
+|The Client|Document information about your client and any assumptions that you made|Consider identifying, analysing, and assessing competitors in the space to demonstrate your understanding of your client's product or service landscape.|
+|The Users|Describe the potential users of this website and the problems they are facing (in context to the client's product or service offerings)||
+|User tasks|What are the user tasks that they looking to accomplish on your client's site||
+|Addressing user needs|Demonstrate how your website design addresses the key tasks that the users are trying to accomplish||
+|Appendix A: Citations and References|List out any references or citations. If you used any free stock images, icons, or other resources please document those sources as well.||
+|Appendix B: User testing|Document the user testing that you conducted||
+|Appendix C: Site map|A site map can be very useful to convey to the client your understanding of the scope and size of the project, and how content will be organized|Only adds value if the site is expected to be more than one page||
 
 ## Grading rubric
+
+|A|B|C|
+|----|----|----|
+|**Concept**|
+|A|B|C|
+|A|B|C|
+|A|B|C|
 
 
 ## Late submissions
 
 ## Sample submission
+
+## Helpful links
+
+### Resources
+
+* [Pexels](https://www.pexels.com)
+* [Unsplash](https://unsplash.com)
+* [The noun project](https://thenounproject.com)
+
+### Inspiration 
+
+* [Land Book](https://land-book.com)
+* [Best Website Gallery](https://bestwebsite.gallery/sites)
+* [One page love](https://onepagelove.com)
+* [Awwwards](https://www.awwwards.com/websites/)
+* [ui8.net](https://www.ui8.net)
