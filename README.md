@@ -69,7 +69,7 @@ The following is a sample of the sections that may be included in your report. Y
 |Criteria|Excellent|Proficient|Satisfactory|Unsatisfactory|
 |----|----|----|----|----|
 |Webpage&nbsp;design<br />**30%** of total|100%<br />Well polished, beautiful, high fidelity design presented that takes into account the results of the user research and incorporates outcomes from user testing. The whole design comes across as cohesive, and well polished.|75%<br />Good quality, high fidelity design presented that incorporates most aspects of user research and some results from user testing.|50%<br />Good quality low fidelity design that incorporates some aspects of user research and some aspects of user testing results.|25%<br />Low fidelity design presented that does not consider user research, does not present a way to accomplish the users tasks, nor take into account outcomes from user testing.|
-|User&nbsp;research<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+|Problem definition<br />**20%** of total|100%<br />Extensive research conducted and clear documentation is provided demonstrating a solid understanding of the users problems / opportunities (in relation to the client's product or service). Further more, competetive analysis may be conducted to gain a deep understanding of the client's competitors and their respective offerings.|75%<br />|50%<br />|25%<br />Minimal research conducted, and minimal documentation provided. A limited understanding of the users problems and opportunities are presented. No competitive analysis conducted.|
 |User&nbsp;tasks<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
 |User&nbsp;testing<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
 |Site&nbsp;map<br />**5%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
@@ -77,9 +77,21 @@ The following is a sample of the sections that may be included in your report. Y
 
 ## Late submissions
 
-## Sample submission
+* If you intend to use one of your assignment extensions please email [mispeln@algonquincollege.com](mailto:mispeln@algonquincollege.com) before the specified due date
+* If you are ill or any other issues arise that are beyond your control, please email [mispeln@algonquincollege.com](mailto:mispeln@algonquincollege.com) before the specified due date to discuss alternate arrangements
 
 ## Frequently Asked Questions (FAQ)
+
+<dl>
+  <dt>Am I able to use copywrited / trademarked material</dt>
+  <dd>Yes! As this is an educational exercise and the material you are creating is not for commercial purposes, copywritten or trademarked material such as brand logos may be included in your design </dd>
+ 
+  <dt>Can I use lorem ipsum text in my designs</dt>
+  <dd>Yes! You are absolutely permitted to use <a href="https://www.lipsum.com">lorem ipsum</a>, <a href="https://baconipsum.com">bacon ipsum</a>, or <a href="https://veganipsum.me">vegan ipsum</a> in your designs. Keep in mind that this should not be used in cases where the meaning of the text is important, for example the call to action buttons in the hero.</dd>
+
+  <dt>Do I need to include sketches, concepts, or initial low fidelity mockups in the report</dt>
+  <dd>No. If you would like to share your design or creative process and think they would add value to the report than feel free to include them, but it is not required.</dd>
+</dl>
 
 ## Helpful links
 
