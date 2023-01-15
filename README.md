@@ -45,7 +45,6 @@ For example, if you would like to design a website for a non-profit food bank, t
 * Clearly label all sections and appendices
 * Use appendices to add any additional information to the report that you feel would be helpful
 * Included references and citations
-* You do NOT need to include any asset files
 
 ## Sample structure of the report
 
@@ -93,6 +92,9 @@ This report is worth 15% of your final grade and marked out of 100.
 
   <dt>Do I need to include sketches, concepts, or initial low fidelity mockups in the report</dt>
   <dd>No. If you would like to share your design or creative process and think they would add value to the report than feel free to include them, but it is not required.</dd>
+ 
+  <dt>Do I need to include source files / asset files for my designs</dt>
+  <dd>No.</dd>
 </dl>
 
 ## Helpful links
