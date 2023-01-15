@@ -12,7 +12,7 @@
 
 ## TLDR
 
-1. Write a report that showcases your website design, describes your client, the users of the website, and the results of guerilla user testing
+1. Write a report that showcases your website design, describes your client, the users of the website, and the results of guerrilla user testing
 
 ## Description
 
@@ -70,11 +70,11 @@ This report is worth 15% of your final grade and marked out of 100.
 
 |Criteria|Total&nbsp;Marks|How we define excellence|
 |----|----|----|
-|Webpage&nbsp;design|**35%** of total|High fidelity, desktop or mobile version of a langing page or home page design. The design presented demonstrates a deep understanding of the client, and takes into account the results of the user research and incorporates outcomes from user testing. The whole design comes across as cohesive, and a focus on user experience is evident.|
-|Problem definition|**20%** of total|Extensive research conducted and clear documentation is provided demonstrating a solid understanding of the client, and how the client measures and defines success. Further documentation presented that demonstrates an understanding of users problems / opportunities (in relation to the client's product or service). Competetive analysis may be conducted to gain a deep understanding of the client's competitors and their respective offerings.|
+|Webpage&nbsp;design|**35%** of total|High fidelity, desktop or mobile version of a landing page or home page design. The design presented demonstrates a deep understanding of the client, and takes into account the results of the user research and incorporates outcomes from user testing. The whole design comes across as cohesive, and a focus on user experience is evident.|
+|Problem definition|**20%** of total|Extensive research conducted and clear documentation is provided demonstrating a solid understanding of the client, and how the client measures and defines success. Further documentation presented that demonstrates an understanding of users problems / opportunities (in relation to the client's product or service). Competitive analysis may be conducted to gain a deep understanding of the client's competitors and their respective offerings.|
 |User&nbsp;tasks|**20%** of total|The report includes a description of the client's users, demonstrates an understanding of what the users needs are, and describes what tasks they are trying to accomplish (in relation to the client's product or service).|
-|User&nbsp;testing|**20%** of total||
-|Report&nbsp;presentation|**5%** of total|Content is king, but how that content is peresented can also be just as important. Information in the report is documented in a way that is engaging, compelling, and easily understandable. The report is designed in a way that looks appealing, helps readers quickly identify the important information, and makes it easy for them to skim to find relevant sections.|
+|User&nbsp;testing|**20%** of total|Document your guerrilla user testing sessions. Include how user testing sessions were conducted, what questions were asked, and what insights or observations (if any) were gained.|
+|Report&nbsp;presentation|**5%** of total|Content is king, but how that content is presented can also be just as important. Information in the report is documented in a way that is engaging, compelling, and easily understandable. The report is designed in a way that looks appealing, helps readers quickly identify the important information, and makes it easy for them to skim to find relevant sections.|
 
 
 ## Late submissions
@@ -85,7 +85,7 @@ This report is worth 15% of your final grade and marked out of 100.
 ## Frequently Asked Questions (FAQ)
 
 <dl>
-  <dt>Am I able to use copywrited / trademarked material</dt>
+  <dt>Am I able to use copy written / trademarked material</dt>
   <dd>Yes! As this is an educational exercise and the material you are creating is not for commercial purposes, copywritten or trademarked material such as brand logos may be included in your design </dd>
  
   <dt>Can I use lorem ipsum text in my designs</dt>
@@ -105,7 +105,7 @@ This report is worth 15% of your final grade and marked out of 100.
 
 ### Inspiration 
 
-* [Article on Guerilla User Testing](https://xd.adobe.com/ideas/process/user-testing/hallway-usability-test-guerrilla-testing/)
+* [Article on Guerrilla User Testing](https://xd.adobe.com/ideas/process/user-testing/hallway-usability-test-guerrilla-testing/)
 * [Land Book](https://land-book.com)
 * [Best Website Gallery](https://bestwebsite.gallery/sites)
 * [One page love](https://onepagelove.com)
