@@ -60,20 +60,22 @@ The following is a sample of the sections that may be included in your report. Y
 |The Users|Describe the potential users of this website and the problems they are facing (in context to the client's product or service offerings)||
 |User tasks|What are the user tasks that they looking to accomplish on your client's site||
 |Addressing user needs|Demonstrate how your website design addresses the key tasks that the users are trying to accomplish||
-|Appendix A: Citations and References|List out any references or citations. If you used any free stock images, icons, or other resources please document those sources as well.||
-|Appendix B: User testing|Document the user testing that you conducted||
-|Appendix C: Site map|A site map can be very useful to convey to the client your understanding of the scope and size of the project, and how content will be organized|Only adds value if the site is expected to be more than one page||
+|Appendix&nbsp;A: Citations and References|List out any references or citations. If you used any free stock images, icons, or other resources please document those sources as well.||
+|Appendix&nbsp;B: User testing|Document the user testing that you conducted|Include a description of how you performed the user testing. Did you use a digital tool, printed paper copy, etc. Document the results of the user testing, the feedback or insights gained, and if you modified your design based on the user testing session.|
+|Appendix&nbsp;C: Site map|A site map can be very useful to convey to the client your understanding of the scope and size of the project, and how content will be organized|Only adds value if the site is expected to be more than one page||
 
 ## Grading rubric
 
-|Criteria|Excellent|Proficient|Satisfactory|Unsatisfactory|
-|----|----|----|----|----|
-|Webpage&nbsp;design<br />**30%** of total|100%<br />Well polished, beautiful, high fidelity design presented that takes into account the results of the user research and incorporates outcomes from user testing. The whole design comes across as cohesive, and well polished.|75%<br />Good quality, high fidelity design presented that incorporates most aspects of user research and some results from user testing.|50%<br />Good quality low fidelity design that incorporates some aspects of user research and some aspects of user testing results.|25%<br />Low fidelity design presented that does not consider user research, does not present a way to accomplish the users tasks, nor take into account outcomes from user testing.|
-|Problem definition<br />**20%** of total|100%<br />Extensive research conducted and clear documentation is provided demonstrating a solid understanding of the users problems / opportunities (in relation to the client's product or service). Further more, competetive analysis may be conducted to gain a deep understanding of the client's competitors and their respective offerings.|75%<br />|50%<br />|25%<br />Minimal research conducted, and minimal documentation provided. A limited understanding of the users problems and opportunities are presented. No competitive analysis conducted.|
-|User&nbsp;tasks<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
-|User&nbsp;testing<br />**20%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
-|Site&nbsp;map<br />**5%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
-|Report&nbsp;presentation<br />**5%** of total|100%<br />|75%<br />|50%<br />|25%<br />|
+This report is worth 15% of your final grade and marked out of 100.
+
+|Criteria|Total&nbsp;Marks|How we define excellence|
+|----|----|----|
+|Webpage&nbsp;design|**35%** of total|High fidelity, desktop or mobile version of a langing page or home page design. The design presented demonstrates a deep understanding of the client, and takes into account the results of the user research and incorporates outcomes from user testing. The whole design comes across as cohesive, and a focus on user experience is evident.|
+|Problem definition|**20%** of total|Extensive research conducted and clear documentation is provided demonstrating a solid understanding of the client, and how the client measures and defines success. Further documentation presented that demonstrates an understanding of users problems / opportunities (in relation to the client's product or service). Competetive analysis may be conducted to gain a deep understanding of the client's competitors and their respective offerings.|
+|User&nbsp;tasks|**20%** of total|The report includes a description of the client's users, demonstrates an understanding of what the users needs are, and describes what tasks they are trying to accomplish (in relation to the client's product or service).|
+|User&nbsp;testing|**20%** of total||
+|Report&nbsp;presentation|**5%** of total|Content is king, but how that content is peresented can also be just as important. Information in the report is documented in a way that is engaging, compelling, and easily understandable. The report is designed in a way that looks appealing, helps readers quickly identify the important information, and makes it easy for them to skim to find relevant sections.|
+
 
 ## Late submissions
 
@@ -103,6 +105,7 @@ The following is a sample of the sections that may be included in your report. Y
 
 ### Inspiration 
 
+* [Article on Guerilla User Testing](https://xd.adobe.com/ideas/process/user-testing/hallway-usability-test-guerrilla-testing/)
 * [Land Book](https://land-book.com)
 * [Best Website Gallery](https://bestwebsite.gallery/sites)
 * [One page love](https://onepagelove.com)
