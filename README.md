@@ -46,6 +46,18 @@ For example, if you would like to design a website for a non-profit food bank, t
 * Use appendices to add any additional information to the report that you feel would be helpful
 * Included references and citations
 
+## Grading rubric
+
+This report is worth 15% of your final grade and marked out of 100.
+
+|Criteria|Total&nbsp;Marks|How we define excellence|
+|----|----|----|
+|Webpage&nbsp;design|**35%** of total|High fidelity, desktop or mobile version of a landing page or home page design. The design presented demonstrates a deep understanding of the client, and takes into account the results of the user research and incorporates outcomes from user testing. The whole design comes across as cohesive, and a focus on user experience is evident.|
+|Problem definition|**20%** of total|Extensive research conducted and clear documentation is provided demonstrating a solid understanding of the client, and how the client measures and defines success. Further documentation presented that demonstrates an understanding of users problems / opportunities (in relation to the client's product or service). Competitive analysis may be conducted to gain a deep understanding of the client's competitors and their respective offerings.|
+|User&nbsp;tasks|**20%** of total|The report includes a description of the client's users, demonstrates an understanding of what the users needs are, and describes what tasks they are trying to accomplish (in relation to the client's product or service).|
+|User&nbsp;testing|**20%** of total|Document your guerrilla user testing sessions. Include how user testing sessions were conducted, what questions were asked, and what insights or observations (if any) were gained.|
+|Report&nbsp;presentation|**5%** of total|Content is king, but how that content is presented can also be just as important. Information in the report is documented in a way that is engaging, compelling, and easily understandable. The report is designed in a way that looks appealing, helps readers quickly identify the important information, and makes it easy for them to skim to find relevant sections.|
+
 ## Sample structure of the report
 
 The following is a sample of the sections that may be included in your report. You may follow this as a sample, or you may implement the report titles and structure that you feel best conveys your designs and ideas. This is purely for informational purposes.
@@ -62,19 +74,6 @@ The following is a sample of the sections that may be included in your report. Y
 |Appendix&nbsp;A: Citations and References|List out any references or citations. If you used any free stock images, icons, or other resources please document those sources as well.||
 |Appendix&nbsp;B: User testing|Document the user testing that you conducted|Include a description of how you performed the user testing. Did you use a digital tool, printed paper copy, etc. Document the results of the user testing, the feedback or insights gained, and if you modified your design based on the user testing session.|
 |Appendix&nbsp;C: Site map|A site map can be very useful to convey to the client your understanding of the scope and size of the project, and how content will be organized|Only adds value if the site is expected to be more than one page||
-
-## Grading rubric
-
-This report is worth 15% of your final grade and marked out of 100.
-
-|Criteria|Total&nbsp;Marks|How we define excellence|
-|----|----|----|
-|Webpage&nbsp;design|**35%** of total|High fidelity, desktop or mobile version of a landing page or home page design. The design presented demonstrates a deep understanding of the client, and takes into account the results of the user research and incorporates outcomes from user testing. The whole design comes across as cohesive, and a focus on user experience is evident.|
-|Problem definition|**20%** of total|Extensive research conducted and clear documentation is provided demonstrating a solid understanding of the client, and how the client measures and defines success. Further documentation presented that demonstrates an understanding of users problems / opportunities (in relation to the client's product or service). Competitive analysis may be conducted to gain a deep understanding of the client's competitors and their respective offerings.|
-|User&nbsp;tasks|**20%** of total|The report includes a description of the client's users, demonstrates an understanding of what the users needs are, and describes what tasks they are trying to accomplish (in relation to the client's product or service).|
-|User&nbsp;testing|**20%** of total|Document your guerrilla user testing sessions. Include how user testing sessions were conducted, what questions were asked, and what insights or observations (if any) were gained.|
-|Report&nbsp;presentation|**5%** of total|Content is king, but how that content is presented can also be just as important. Information in the report is documented in a way that is engaging, compelling, and easily understandable. The report is designed in a way that looks appealing, helps readers quickly identify the important information, and makes it easy for them to skim to find relevant sections.|
-
 
 ## Late submissions
 
