@@ -12,7 +12,7 @@
 
 ## TLDR
 
-1. Write a report that showcases your website design, describes your client, the users of the website, and the results of guerrilla user testing
+1. Write a report that showcases your website design, describes your client, the users of the website, and the results of a quick guerrilla user testing session.
 
 ## Description
 
