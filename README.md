@@ -19,7 +19,7 @@
 Create a report that includes:
 
 * a short description of your client,
-* a high fidelity web page design for a homepage or landing page (desktop or mobile),
+* one (1) high fidelity web page design for a homepage or landing page (desktop or mobile),
 * research conducted about your client's users,
   * who are the users of the website, 
   * the key problem(s) that the users are experiencing,
