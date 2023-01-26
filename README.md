@@ -35,7 +35,7 @@ For example, if you would like to design a website for a non-profit food bank, t
 
 ## Assignment acceptance criteria 
 
-* Your report must be in one of the following formats, `pdf`, `word`, or `pages`.
+* Your report must be in one of the following formats, `pdf`, `word`, `ppt`, `keynote`, or `pages`.
 * Submit **one** document via Brightspace before the specified deadline
 * Include a cover page with:
   * The assignment number and title, e.g.: Assignment 1: Website design for (Name of client)
