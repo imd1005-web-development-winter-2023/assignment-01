@@ -6,7 +6,7 @@
 
 **Semester**: Winter 2023
 
-**Due Date**: 11:59 AM (noon) 2023-01-27
+**Due Date**: 11:59 PM (midnight) 2023-01-27
 
 **Assessment**: This assignment is worth 15% of your final grade and marked out of 100.
 
